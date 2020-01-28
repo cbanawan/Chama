@@ -1,2 +1,2 @@
 # Chama
-Chama Hiring Test
+Netsuite Developer Hiring Assignment
